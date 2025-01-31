@@ -1,7 +1,8 @@
 # DIMATrack
 
 #### Our DIMATrack method's overall architecture
-[DIMATrack1.pdf](https://github.com/user-attachments/files/18613859/DIMATrack1.pdf)
+![DIMATrack](https://github.com/user-attachments/files/18613889/DIMATrack1.pdf)
+
 
 #Abstract
 Multi-Object Tracking (MOT) is crucial for real-world ap-

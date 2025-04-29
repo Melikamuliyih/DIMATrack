@@ -4,6 +4,8 @@
 ![DIMATrack](https://github.com/user-attachments/files/18613889/DIMATrack1.pdf)
 
 
+> [**Liu, S., Sinishaw, M.L., Zheng, L. (2025). DIMATrack: Dimension Aware Data Association for Multi-Object Tracking**]([https://www.sciencedirect.com/science/article/pii/S0141938224000465](https://doi.org/10.1007/978-981-96-5815-2_2), 
+
 #Abstract
 Multi-Object Tracking (MOT) is crucial for real-world ap-
 plications like video surveillance, where it aims to detect and maintain

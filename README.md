@@ -22,3 +22,12 @@ on appearance or spatial information. Extensive experiments on three
 benchmarks demonstrate the superior performance of our DIMATrack,
 particularly in challenging tracking environments. The code is available
 at https://github.com/Melikamuliyih/DIMATrack.
+
+
+
+
+
+## Citation
+```
+Liu, S., Sinishaw, M.L., Zheng, L. (2025). DIMATrack: Dimension Aware Data Association for Multi-Object Tracking. In: Didyk, P., Hou, J. (eds) Computational Visual Media. CVM 2025. Lecture Notes in Computer Science, vol 15665. Springer, Singapore. https://doi.org/10.1007/978-981-96-5815-2_2
+```

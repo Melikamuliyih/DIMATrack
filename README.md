@@ -2,6 +2,7 @@
 
 #### Our DIMATrack method's overall architecture
 [DIMATrack1.pdf](https://github.com/user-attachments/files/19950743/DIMATrack1.pdf)
+![image](https://github.com/user-attachments/assets/1c67ae4d-7058-40f4-a707-8524717e71c8)
 
 
 > [**Liu, S., Sinishaw, M.L., Zheng, L. (2025). DIMATrack: Dimension Aware Data Association for Multi-Object Tracking**]([https://www.sciencedirect.com/science/article/pii/S0141938224000465](https://doi.org/10.1007/978-981-96-5815-2_2), 

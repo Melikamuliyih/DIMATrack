@@ -1,8 +1,7 @@
 # DIMATrack
 
 #### Our DIMATrack method's overall architecture
-![DIMATrack1.pdf](https://github.com/user-attachments/files/19950679/DIMATrack1.pdf)
-
+[DIMATrack1.pdf](https://github.com/user-attachments/files/19950743/DIMATrack1.pdf)
 
 
 > [**Liu, S., Sinishaw, M.L., Zheng, L. (2025). DIMATrack: Dimension Aware Data Association for Multi-Object Tracking**]([https://www.sciencedirect.com/science/article/pii/S0141938224000465](https://doi.org/10.1007/978-981-96-5815-2_2), 
@@ -26,7 +25,17 @@ benchmarks demonstrate the superior performance of our DIMATrack,
 particularly in challenging tracking environments. The code is available
 at https://github.com/Melikamuliyih/DIMATrack.
 
+## Tracking performance
+### Results on MOT Datasets
+| Dataset    |  MOTA | IDF1  | FP | FN | FPS |
+|--------------|-----------|-------|----------|----------|--------|
+|MOT17       | 80.7% | 79.0% | 2572 | 7398| 31.2 |
+|MOT20       | 77.1% | 78.2% |49615 | 90245 | 15.3 |
 
+### Results on DanceTrack Dataset
+| Dataset    |  MOTA | IDF1  | DetA |AssA |
+|--------------|-----------|-------|----------|----------|
+|DanceTrack  | 92.5% | 79.9% |84.4% | 65.5 |
 
 
 

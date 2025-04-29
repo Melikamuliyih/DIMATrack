@@ -1,7 +1,7 @@
 # DIMATrack
 
 #### Our DIMATrack method's overall architecture
-![DIMATrack][DIMATrack1.pdf](https://github.com/user-attachments/files/19950679/DIMATrack1.pdf)
+![DIMATrack](https://github.com/user-attachments/files/19950679/DIMATrack1.pdf)
 
 
 
